@@ -1,6 +1,6 @@
 name: BuildBattle
 main: Crack\BB
-api: [1.0.0, 2.0.0]
+api: [1.0.0, 2.0.0, 3.0.0-ALPHA6, 3.0.1]
 version: 1.3.0
 author: Crack Pixel And Pyxel Ruby
 
